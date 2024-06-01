@@ -5,7 +5,7 @@ This project's goal is to create a Machine Learning model that can predict the r
 ## Installation
 1. Clone this repository to your local machine:
 ```
-git clone [https://github.com/mhdhfzz/data-analyst-dicoding.git](https://github.com/magistraapta/IMDB-Reviews-Sentiment-Analysis)
+git clone https://github.com/magistraapta/IMDB-Reviews-Sentiment-Analysis
 ```
 2. Go to the project directory
 ```
